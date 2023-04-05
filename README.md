@@ -9,5 +9,4 @@ This DVC project is the compilation of basic commands used in dvc workflow.
 1. 
 2. B
 3. C
-⋅⋅1 E
 
